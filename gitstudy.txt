@@ -1,0 +1,16 @@
+GIT COMMANDS :-
+git clone - this is the command used to copy any resporatory(folder) from local machine i.e. ur laptop and from remote i.e. from github.
+cd - to go to any diractory or folder.
+clear - to clear the terminal.
+cd .. - to go to the privious directory 
+ls - to show all the files present in the folder.
+ls -a - is used to show hidden files and folders from resporatory.
+git status- shows the status of git folder.as "untracked , modified, staged, unmodified".
+git add-adds new or changed files in your working directory to the git staging area.
+"git add <file name>"
+git commit- it is the record if change.
+"git commit -m "some messege" "
+git add . - used to add all the changes.
+push - upload local repo contant to remote repo.
+"git push origin main"
+
